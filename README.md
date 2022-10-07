@@ -1,19 +1,19 @@
-### Hi there 👋 I'm Sean!
+# Hi there 👋 I'm Sean!
 
-# ⚡ I'm a Cybersecurity Analyst and Software Developer ⚡ 
+### I'm a Cybersecurity Analyst and Software Developer ⚡ 
 
-### Cybersecurity:
+## Cybersecurity:
 
 * Experienced Analyst with a demonstrated history of working in the computer and network security industry.
 * Skilled in Security, Malware Analysis, Incident Response, RE, C/C++/Golang, Analytical Skills, and Self Learning. 
 
-### Software Development:
+## Software Development:
 
 * C/C++/Golang Developer.
 * Full-Stack: JS, HTML5, CSS, React.js, Node.js, Rest API.
 * Scrum/Agile.
 
-Feel free to join my journey and explore the projects and tools developed by me.
+### Feel free to join my journey and explore the projects and tools developed by me.
 
 <!--
 **seanshx/seanshx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
