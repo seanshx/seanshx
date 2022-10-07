@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sean!
+# Hi there 👋  I'm Sean!
 
 ### I'm a Cybersecurity Analyst and Software Developer ⚡ 🤙 
 
