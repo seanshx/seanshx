@@ -1,6 +1,5 @@
 # Hi there 👋  I'm Sean!
-
-### I'm a Cybersecurity Analyst and Software Developer ⚡ 🤙 
+### I'm a Cybersecurity Analyst and a Software Developer ⚡ 🤙 
 
 ## Cybersecurity:
 
@@ -15,7 +14,7 @@
 
 
 
-### Feel free to join my journey end explore the projects and tools developed by me 🌊🤙
+### Feel free to join my journey end explore the projects and tools developed by me during my learning process 🌊🤙
 
 <!--
 **seanshx/seanshx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
