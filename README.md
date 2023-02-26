@@ -4,11 +4,11 @@
 ## Cybersecurity:
 
 * Experienced Analyst with a demonstrated history of working in the computer and network security industry.
-* Skilled in Security, Malware Analysis, Incident Response, RE, C/C++/Golang, Analytical Skills, and Self Learning. 
+* Skilled in Security, Malware Analysis, Incident Response, RE, C/C++/Python, Analytical Skills, and Self Learning. 
 
 ## Software Development:
 
-* C/C++/Golang Developer.
+* C/C++/Python Developer.
 * Full-Stack: JS, HTML5, CSS, React.js, Node.js, Rest API.
 * Scrum/Agile.
 
