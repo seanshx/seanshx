@@ -8,7 +8,7 @@
 
 ## Software Development:
 
-* C/C++/Python Developer.
+* C#/C/C++/Python Developer.
 * Full-Stack: JS, HTML5, CSS, React.js, Node.js, Rest API.
 * Scrum/Agile.
 
