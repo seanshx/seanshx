@@ -10,7 +10,7 @@
 
 * C#/C/C++/Python Developer.
 * Full-Stack: JS, HTML5, CSS, React.js, Node.js, Rest API.
-* Cloud and & DB: AWS, Elasticsearch, MongoDB, MSQL, KQL.
+* Cloud & DB: AWS, Elasticsearch, MongoDB, MSQL, KQL.
 * Scrum/Agile.
 
 
